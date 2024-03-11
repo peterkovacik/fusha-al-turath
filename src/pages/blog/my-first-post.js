@@ -6,7 +6,7 @@ const Index = () => {
         <div>
             <h1>My first blog post</h1>
             <p>This is my first blog post.</p>
-            <Link to="/">Take me home</Link>
+            <Link className="link" to="/">Take me home</Link>
         </div>
     )
 }
